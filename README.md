@@ -1,2 +1,2 @@
 # mybaby-agent
-学习agent
+探索agent原理
